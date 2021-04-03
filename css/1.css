@@ -1,0 +1,23 @@
+p::first-letter{
+    color: bisque;
+    font: bold;
+    font-size: 100px;
+
+}
+h1::first-line{
+    color: blueviolet;
+}
+p::selection{
+    background: cadetblue;
+    color: chocolate;
+}
+.hi{
+border: crimson;
+border-width: 5px;
+border-style: groove;
+border-left: teal;
+}
+body{
+    background-image: url("../img/11.jpg");
+    
+}
